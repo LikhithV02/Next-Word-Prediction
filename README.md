@@ -18,3 +18,15 @@ To use the prediction model:
 2. Ensure you have TensorFlow and Gradio installed:
    ```bash
    pip install -r requirements.txt
+3. Run the script to launch the Gradio interface:
+   ```bash
+   python app.py
+4. Access the Gradio web interface in your browser, input your initial word and the desired length of the prediction, and see the predicted movie title.
+
+## Requirements:
+- Python 3.9+
+- TensorFlow 2.x
+- Gradio
+
+## Contributions
+Contributions are welcome! If you have suggestions or improvements, feel free to fork this repository and submit a pull request.
