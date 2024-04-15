@@ -12,7 +12,7 @@ The dataset, stored in `Movie_Titles.csv`, consists of 1,610 unique movie titles
 ## Gradio Interface
 A user-friendly Gradio interface has been set up for easy interaction with the model. Users can input an initial word and specify the number of words they want the model to predict. The model then outputs a sequence that can be interpreted as a potential movie title based on the input.
 
-![Project Logo]()
+![Project Logo](images/GUI.png)
 
 ## How to Use
 To use the prediction model:
