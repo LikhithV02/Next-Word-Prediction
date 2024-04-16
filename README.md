@@ -19,7 +19,7 @@ A user-friendly Gradio interface has been set up for easy interaction with the m
 ## How to Use
 To use the prediction model:
 1. Clone this repository to your local machine.
-2. Ensure you have TensorFlow and Gradio installed:
+2. Ensure you have install the dependencies:
    ```bash
    pip install -r requirements.txt
 3. Run the script to launch the Gradio interface:
